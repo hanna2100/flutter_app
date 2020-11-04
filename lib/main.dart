@@ -11,7 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://i.ytimg.com/vi/NInbHf_Kqxk/maxresdefault.jpg'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       )
