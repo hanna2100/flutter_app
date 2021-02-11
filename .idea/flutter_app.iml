@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter-master/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee/build" />
       <excludeFolder url="file://$MODULE_DIR$/mi_card/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/mi_card/build" />
     </content>
