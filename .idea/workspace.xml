@@ -27,7 +27,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b69024c0-d071-4c44-bbab-26eb35825388" name="Default Changelist" comment="" />
+    <list default="true" id="b69024c0-d071-4c44-bbab-26eb35825388" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/flutter_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_app.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +50,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CleanNote" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/quizzler" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -96,10 +98,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="100" y="100" width="1188" height="843" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1607735386299" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1613039350399">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1613787271777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613039350399" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613787271777" />
     <state width="1306" height="19" key="GridCell.Tab.0.bottom" timestamp="1607768519035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
